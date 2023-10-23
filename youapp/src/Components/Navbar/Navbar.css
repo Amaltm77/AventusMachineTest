@@ -1,0 +1,24 @@
+.mainnav{
+    text-decoration: none;
+    display: flex;
+    background-color: rgb(58, 58, 71);
+}
+
+ul{
+    list-style: none;
+    text-decoration: none;
+}
+
+.mainnav li{
+    display: inline-block;
+    padding: 10px;
+    justify-self: center;
+    margin: 10px;
+}
+
+
+.mainnav a{
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+}

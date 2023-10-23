@@ -1,0 +1,25 @@
+table.customTable {
+    width: 80%;
+    background-color: #2B2628;
+    border-collapse: collapse;
+    border-width: 2px;
+    border-color: #A19293;
+    border-style: solid;
+    color: #FFFFFF;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+  }
+  
+table.customTable td, table.customTable th {
+    border-width: 2px;
+    border-color: #A19293;
+    border-style: solid;
+    padding: 5px;
+    text-align: center;
+  }
+  
+table.customTable thead {
+    background-color: #2B2628;
+  }
+  
